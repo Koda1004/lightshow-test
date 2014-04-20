@@ -1,0 +1,30 @@
+{
+  "name": "Herokuapp",
+  "version": "0.0.0",
+  "description": "hi",
+  "main": "app.js",
+  "dependencies": {
+    "node-static": "~0.7.3",
+    "socket.io": "~0.9.16",
+    "logfmt": "^1.1.2",
+    "express": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Koda1004/lightshow-test.git"
+  },
+  "keywords": [
+    "lightshow",
+    "heroku"
+  ],
+  "author": "chris mueller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koda1004/lightshow-test/issues"
+  },
+  "homepage": "https://github.com/Koda1004/lightshow-test"
+}
