@@ -1,0 +1,6 @@
+In this directory, run:
+	node app.js
+
+Then go to localhost:8080 in your browser.
+
+Try opening in different browsers or with an incognito window.
